@@ -1,0 +1,11 @@
+C:\Users\felip\Desktop\desafio G2.4\obj\Debug\netcoreapp2.1\desafio G2.4.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\desafio G2.4\obj\Debug\netcoreapp2.1\desafio G2.4.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\desafio G2.4\obj\Debug\netcoreapp2.1\desafio G2.4.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\desafio G2.4\obj\Debug\netcoreapp2.1\desafio G2.4.AssemblyInfo.cs
+C:\Users\felip\Desktop\desafio G2.4\bin\Debug\netcoreapp2.1\desafio G2.4.deps.json
+C:\Users\felip\Desktop\desafio G2.4\bin\Debug\netcoreapp2.1\desafio G2.4.runtimeconfig.json
+C:\Users\felip\Desktop\desafio G2.4\bin\Debug\netcoreapp2.1\desafio G2.4.runtimeconfig.dev.json
+C:\Users\felip\Desktop\desafio G2.4\bin\Debug\netcoreapp2.1\desafio G2.4.dll
+C:\Users\felip\Desktop\desafio G2.4\bin\Debug\netcoreapp2.1\desafio G2.4.pdb
+C:\Users\felip\Desktop\desafio G2.4\obj\Debug\netcoreapp2.1\desafio G2.4.dll
+C:\Users\felip\Desktop\desafio G2.4\obj\Debug\netcoreapp2.1\desafio G2.4.pdb
